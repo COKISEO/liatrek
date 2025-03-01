@@ -6,7 +6,7 @@ export const siteConfig = {
   navItems: [],
   navMenuItems: [],
   links: {
-    github: "https://github.com/cokiseo/liatrekening.github.io",
+    github: "https://github.com/cokiseo/liatrek",
     docs: "https://documenter.getpostman.com/view/comingsooncokiseo",
   },
 };
