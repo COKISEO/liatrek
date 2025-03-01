@@ -3,9 +3,9 @@
   "version": "2.0.0",
   "private": true,
   "description": "API Cek Rekening, API Cek Nama Rekening, Cek Nama Rekening Indonesia",
-  "homepage": "https://github.com/cekrekening/cokiseo.github.io/liatrek#readme",
+  "homepage": "https://github.com/COKISEO/liatrek#readme",
   "bugs": {
-    "url": "https://github.com/cekrekening/cokiseo.github.io/liatrek/issues"
+    "url": "https://github.com/COKISEO/liatrek/issues"
   },
   "repository": {
     "type": "git",
