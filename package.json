@@ -1,15 +1,15 @@
 {
-  "name": "cekrekening.github.io",
+  "name": "cokiseo.github.io/liatrek",
   "version": "2.0.0",
   "private": true,
   "description": "API Cek Rekening, API Cek Nama Rekening, Cek Nama Rekening Indonesia",
-  "homepage": "https://github.com/cekrekening/cekrekening.github.io#readme",
+  "homepage": "https://github.com/cekrekening/cokiseo.github.io/liatrek#readme",
   "bugs": {
-    "url": "https://github.com/cekrekening/cekrekening.github.io/issues"
+    "url": "https://github.com/cekrekening/cokiseo.github.io/liatrek/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cekrekening/cekrekening.github.io.git"
+    "url": "git+https://github.com/cekrekening/cokiseo.github.io/liatrek.git"
   },
   "license": "MIT",
   "author": "Vava Heirro",
